@@ -1,5 +1,5 @@
 {
-  "name": "grapesjs-mjml",
+  "name": "@quorum/grapesjs-mjml",
   "version": "0.5.2",
   "description": "MJML Componenets integration in GrapesJS",
   "main": "dist/grapesjs-mjml.min.js",
